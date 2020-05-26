@@ -1,0 +1,21 @@
+
+import yaml
+yml_path = r"C:\python_advanced.yml"
+
+file_type: obj 
+charName: cal
+neutral: callum_neutral
+
+folderPath: r"E:/sgScripts/project/" + charName
+
+PATH_OF_FILES: folderPath + "/model/face/l_r_faceShapes"
+OUT_BLEND_PATH: folderPath + r"\model\face\faceBlended"
+GUIDE_PATH: folderPath + r"\guide\\" + charName + "_faceGuide.ma"
+IN_BLEND_PATH: folderPath + r"\model\face\faceBlended\bsMan_blendNode.ma"
+HEAD_PATH: folderPath + r"\model\face\faceNeutralShape\\" + neutral + "." + FILE_TYPE
+
+
+HEAD: "C_body_PLY"
+FACE_SHAPES_GEO: "bsMan_fRig_PLY"
+FACE_GEO: "C_head_low_PLY"
+BSMAN_NAME: "bsMan_blendNode"

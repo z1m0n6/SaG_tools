@@ -1,0 +1,69 @@
+"""
+configuration file
+"""
+
+eyeTop0 = [
+                    head + ".vtx[2541]",
+                    head + ".vtx[2542]",
+                    head + ".vtx[2516]",
+                    head + ".vtx[2972]",
+                    head + ".vtx[2515]",
+                    head + ".vtx[2543]",
+                    head + ".vtx[3097]",
+                    head + ".vtx[2670]",
+                    head + ".vtx[2413]",
+                    head + ".vtx[2412]",
+                    head + ".vtx[2538]",
+                    head + ".vtx[2539]",
+                    head + ".vtx[2380]",
+                    head + ".vtx[2381]"
+                    ]
+
+        eyeBot0 = [
+                    head + ".vtx[2381]",
+                    head + ".vtx[2510]",
+                    head + ".vtx[2511]",
+                    head + ".vtx[2947]",
+                    head + ".vtx[2508]",
+                    head + ".vtx[2509]",
+                    head + ".vtx[2540]",
+                    head + ".vtx[3122]",
+                    head + ".vtx[2647]",
+                    head + ".vtx[2376]",
+                    head + ".vtx[2375]",
+                    head + ".vtx[2450]",
+                    head + ".vtx[2441]",
+                    head + ".vtx[2541]"
+                    ]
+        eyeTop1 = [
+                    head + ".vtx[656]",
+                    head + ".vtx[657]",
+                    head + ".vtx[688]",
+                    head + ".vtx[689]",
+                    head + ".vtx[791]",
+                    head + ".vtx[792]",
+                    head + ".vtx[814]",
+                    head + ".vtx[815]",
+                    head + ".vtx[817]",
+                    head + ".vtx[818]",
+                    head + ".vtx[819]",
+                    head + ".vtx[946]",
+                    head + ".vtx[1248]",
+                    head + ".vtx[1373]"
+                    ]
+        eyeBot1 = [
+                    head + ".vtx[651]",
+                    head + ".vtx[652]",
+                    head + ".vtx[657]",
+                    head + ".vtx[717]",
+                    head + ".vtx[726]",
+                    head + ".vtx[784]",
+                    head + ".vtx[785]",
+                    head + ".vtx[786]",
+                    head + ".vtx[787]",
+                    head + ".vtx[816]",
+                    head + ".vtx[817]",
+                    head + ".vtx[923]",
+                    head + ".vtx[1223]",
+                    head + ".vtx[1398]"
+                    ]
