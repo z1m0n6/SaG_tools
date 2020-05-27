@@ -1,0 +1,143 @@
+
+PATH              :
+  FOLDER          : E:/sgScripts/project/
+  L_EYE           : model/face/faceDressing/l_eye.obj
+  R_EYE           : model/face/faceDressing/r_eye.obj
+  GUIDES          : /guide/
+
+HEAD              : C_body_PLYShape
+CHAR_NAME         : cal
+
+
+EYES:
+  EYETOP_L_V :
+    - .vtx[2541]
+    - .vtx[2542]
+    - .vtx[2516]
+    - .vtx[2972]
+    - .vtx[2515]
+    - .vtx[2543]
+    - .vtx[3097]
+    - .vtx[2670]
+    - .vtx[2413]
+    - .vtx[2412]
+    - .vtx[2538]
+    - .vtx[2539]
+    - .vtx[2380]
+    - .vtx[2381]
+                    
+  EYEBOT_L_V :
+    - .vtx[2381]
+    - .vtx[2510]
+    - .vtx[2511]
+    - .vtx[2947]
+    - .vtx[2508]
+    - .vtx[2509]
+    - .vtx[2540]
+    - .vtx[3122]
+    - .vtx[2647]
+    - .vtx[2376]
+    - .vtx[2375]
+    - .vtx[2450]
+    - .vtx[2441]
+    - .vtx[2541]
+                    
+
+  EYETOP_R_V :
+    - .vtx[656]
+    - .vtx[657]
+    - .vtx[688]
+    - .vtx[689]
+    - .vtx[791]
+    - .vtx[792]
+    - .vtx[814]
+    - .vtx[815]
+    - .vtx[817]
+    - .vtx[818]
+    - .vtx[819]
+    - .vtx[946]
+    - .vtx[1248]
+    - .vtx[1373]
+
+
+  EYEBOT_R_V :
+    - .vtx[651]
+    - .vtx[652]
+    - .vtx[657]
+    - .vtx[717]
+    - .vtx[726]
+    - .vtx[784]
+    - .vtx[785]
+    - .vtx[786]
+    - .vtx[787]
+    - .vtx[816]
+    - .vtx[817]
+    - .vtx[923]
+    - .vtx[1223]
+    - .vtx[1398]
+
+LOCS:
+  LUP:
+    - locator9_LOC
+    - locator10_LOC
+    - locator6_LOC
+    - locator13_LOC
+    - locator5_LOC
+    - locator11_LOC
+    - locator14_LOC
+    - locator12_LOC
+    - locator4_LOC
+    - locator3_LOC
+    - locator7_LOC
+    - locator8_LOC
+    - locator1_LOC
+    - locator2_LOC
+
+  LDOWN:
+    - locator25_LOC
+    - locator22_LOC
+    - locator23_LOC
+    - locator21_LOC
+    - locator27_LOC
+    - locator20_LOC
+    - locator24_LOC
+    - locator28_LOC
+    - locator26_LOC
+    - locator16_LOC
+    - locator15_LOC
+    - locator19_LOC
+    - locator18_LOC
+    - locator17_LOC
+
+  RUP:
+    - locator37_LOC
+    - locator38_LOC
+    - locator34_LOC
+    - locator41_LOC
+    - locator33_LOC
+    - locator39_LOC
+    - locator42_LOC
+    - locator40_LOC
+    - locator32_LOC
+    - locator31_LOC
+    - locator35_LOC
+    - locator36_LOC
+    - locator29_LOC
+    - locator30_LOC
+
+  RDOWN:
+    - locator53_LOC
+    - locator50_LOC
+    - locator51_LOC
+    - locator49_LOC
+    - locator55_LOC
+    - locator48_LOC
+    - locator52_LOC
+    - locator56_LOC
+    - locator54_LOC
+    - locator44_LOC
+    - locator43_LOC
+    - locator47_LOC
+    - locator46_LOC
+    - locator45_LOC
+
