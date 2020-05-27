@@ -1,7 +1,8 @@
 
-# COMMENT --------------------------------------------------
-
-# use comments and seperator
+##########################################################################
+# config file for buildFace.py
+# character model is Callum
+##########################################################################
 
 
 
@@ -21,8 +22,8 @@ PATH:
 
 NAME:
   HEAD              : C_body_PLY
-  FACE_SHAPES_GEO   : "bsMan_fRig_PLY"
-  FACE_GEO          : "C_head_low_PLY"
-  BSMAN_NAME        : "bsMan_blendNode"
+  FACE_SHAPES_GEO   : bsMan_fRig_PLY
+  FACE_GEO          : C_head_low_PLY
+  BSMAN_NAME        : bsMan_blendNode
 
 
